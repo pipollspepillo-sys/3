@@ -1,0 +1,14 @@
+EnderCrystalRegenTimeINFO: La siguiente es una lista de números en segundos del tiempo
+  que toma regenerar un End Crystal.
+EnderCrystalRegenTime:
+- 60
+- 90
+- 120
+- 30
+- 240
+- 150
+PlacedObsidian: []
+ReplacedObsidian: true
+CreatedRegenZone: true
+DecoratedEndSpawn: true
+RegenZoneLocation: 90.0;41.0;0.0;world_the_end

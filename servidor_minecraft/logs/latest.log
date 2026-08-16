@@ -1,0 +1,308 @@
+[23:23:04] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:23:04] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[23:23:05] [Worker-Main-2/INFO]: Loaded 7 recipes
+[23:23:06] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[23:23:06] [Server thread/INFO]: Loading properties
+[23:23:06] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[23:23:06] [Server thread/INFO]: Debug logging is disabled
+[23:23:06] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:23:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:23:06] [Server thread/INFO]: Default game type: SURVIVAL
+[23:23:06] [Server thread/INFO]: Generating keypair
+[23:23:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:23:06] [Server thread/INFO]: Using epoll channel type
+[23:23:07] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.5+57d5ac9
+[23:23:07] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@19828043]
+[23:23:07] [Server thread/INFO]: [Permadeath] Loading Permadeath v1.3
+[23:23:07] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.12.5
+[23:23:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:23:07] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.5+57d5ac9
+[23:23:07] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[23:23:07] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[23:23:09] [Server thread/INFO]: [Permadeath] Enabling Permadeath v1.3
+[23:23:09] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.5
+[23:23:09] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[23:23:10] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[23:23:10] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[23:23:10] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[23:23:10] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[23:23:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:23:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:23:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:23:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:23:10] [Server thread/INFO]: Preparing level "world"
+[23:23:10] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[23:23:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:23:11] [Server thread/INFO]: Preparing spawn area: 0%
+[23:23:11] [Server thread/INFO]: Preparing spawn area: 0%
+[23:23:11] [Server thread/INFO]: Time elapsed: 831 ms
+[23:23:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:23:11] [Server thread/INFO]: Preparing spawn area: 0%
+[23:23:12] [Server thread/INFO]: Time elapsed: 357 ms
+[23:23:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:23:12] [Server thread/INFO]: Preparing spawn area: 0%
+[23:23:12] [Server thread/INFO]: Preparing spawn area: 25%
+[23:23:12] [Server thread/INFO]: Time elapsed: 711 ms
+[23:23:12] [Server thread/INFO]: Running delayed init tasks
+[23:23:12] [Server thread/INFO]: Permadeath ➤ No se ha encontrado una librería JDA, deberás instalar una en caso de querer utilizar un bot de Discord.
+[23:23:12] [Server thread/INFO]: Descarga aquí: https://www.spigotmc.org/resources/permadeath-%E2%98%A0%EF%B8%8F.112343/
+[23:23:12] [Server thread/INFO]: Si no puedes descargarlo allí, únete a este Discord y te daremos acceso al enlace: https://discord.gg/8evPbuxPke
+[23:23:13] [Server thread/INFO]: ------------------------------------------
+[23:23:13] [Server thread/INFO]:              PERMADEATH
+[23:23:13] [Server thread/INFO]:      - Versión: 1.3
+[23:23:13] [Server thread/INFO]:      - Versión del Servidor: v1.16
+[23:23:13] [Server thread/INFO]: ------------------------------------------
+[23:23:13] [Server thread/INFO]:  >> INFORME DE ESTADO
+[23:23:13] [Server thread/INFO]: > Estado de mundos: Overworld: world End: world_the_end
+[23:23:13] [Server thread/INFO]:     > End: world_the_end
+[23:23:13] [Server thread/INFO]:     > Overworld: world
+[23:23:13] [Server thread/INFO]: > Estado de Compatibilidad: Compatible
+[23:23:13] [Server thread/INFO]: > Software: PaperMC (Compatible)
+[23:23:13] [Server thread/INFO]: > Cambios:
+[23:23:13] [Server thread/INFO]: >   Días disponibles: 1-60
+[23:23:13] [Server thread/INFO]: [PermaDeath] > Se han registrado los cambios de Mobs pacíficos hostiles.
+[23:23:13] [Server thread/INFO]: [PermaDeath] > Se han registrado cambios especiales para PaperMC.
+[23:23:13] [Server thread/INFO]: [PermaDeath] > Se han registrado cambios para el día 40
+[23:23:13] [Server thread/INFO]: Preparing start region for dimension minecraft:pdc_the_beginning
+[23:23:13] [Server thread/INFO]: Preparing spawn area: 0%
+[23:23:13] [Server thread/INFO]: Time elapsed: 232 ms
+[23:23:13] [Server thread/INFO]: [PermaDeath] > Se han registrado cambios de TheBeginning
+[23:23:13] [Server thread/INFO]: Done (7.431s)! For help, type "help"
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.31
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[23:23:13] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[23:23:13] [Server thread/INFO]: Timings Reset
+[23:23:13] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[23:23:13] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +===================+[0;39m
+[23:23:13] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer   |[0;39m
+[23:23:13] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |-------------------|[0;39m
+[23:23:13] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m  |[0;39m
+[23:23:13] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +===================+[0;39m
+[23:23:13] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[23:23:13] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.12.5[0;39m
+[23:23:13] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m98b9488[0;39m
+[23:23:13] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[23:23:13] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[23:23:13] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[23:23:13] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer or receive priority support? Become a supporter: [33;1mhttps://skinsrestorer.net/pricing[0;39m
+[23:23:13] [Craft Scheduler Thread - 0/INFO]: Permadeath ➤ Versión del plugin: Versión más reciente instalada.
+[23:23:14] [User Authenticator #1/INFO]: UUID of player Jer_efece is 840e1dc2-d2ed-3664-ae8c-c53cfbe0648a
+[23:23:15] [Server thread/INFO]: Jer_efece se ha unido al servidor.
+[23:23:15] [Server thread/INFO]: Jer_efece[/127.59.58.120:34705] logged in with entity id 373 at ([world_nether]-220.69999998807907, 123.0, 43.61245627959211)
+[23:23:16] [Server thread/ERROR]: Could not pass event ChunkLoadEvent to Permadeath v1.3
+java.lang.ClassCastException: class net.minecraft.server.v1_16_R3.EntityArmorStand cannot be cast to class net.minecraft.server.v1_16_R3.EntityInsentient (net.minecraft.server.v1_16_R3.EntityArmorStand and net.minecraft.server.v1_16_R3.EntityInsentient are in unnamed module of loader 'app')
+	at tech.sebazcrc.permadeath.nms.v1_16_R3.NMSAccessorImpl.registerAttribute(NMSAccessorImpl.java:57) ~[?:?]
+	at tech.sebazcrc.permadeath.event.HostileEntityListener.injectHostileBehavior(HostileEntityListener.java:50) ~[?:?]
+	at tech.sebazcrc.permadeath.event.HostileEntityListener.onChunkLoad(HostileEntityListener.java:68) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor44.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.16.5.jar:git-Paper-794]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.Chunk.loadCallback(Chunk.java:875) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunk.lambda$a$15(PlayerChunk.java:775) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunkMap$CallbackExecutor.run(PlayerChunkMap.java:204) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:1080) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer$a.midTickLoadChunks(ChunkProviderServer.java:1057) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.midTickLoadChunks(MinecraftServer.java:1240) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer.lambda$tickChunks$14(ChunkProviderServer.java:874) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunkMap.forEachVisibleChunk(PlayerChunkMap.java:683) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer.tickChunks(ChunkProviderServer.java:850) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer.tick(ChunkProviderServer.java:767) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.doTick(WorldServer.java:576) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1495) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1347) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:23:16] [Server thread/ERROR]: Could not pass event ChunkLoadEvent to Permadeath v1.3
+java.lang.ClassCastException: class net.minecraft.server.v1_16_R3.EntityArmorStand cannot be cast to class net.minecraft.server.v1_16_R3.EntityInsentient (net.minecraft.server.v1_16_R3.EntityArmorStand and net.minecraft.server.v1_16_R3.EntityInsentient are in unnamed module of loader 'app')
+	at tech.sebazcrc.permadeath.nms.v1_16_R3.NMSAccessorImpl.registerAttribute(NMSAccessorImpl.java:57) ~[?:?]
+	at tech.sebazcrc.permadeath.event.HostileEntityListener.injectHostileBehavior(HostileEntityListener.java:50) ~[?:?]
+	at tech.sebazcrc.permadeath.event.HostileEntityListener.onChunkLoad(HostileEntityListener.java:68) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor44.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.16.5.jar:git-Paper-794]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.Chunk.loadCallback(Chunk.java:875) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunk.lambda$a$15(PlayerChunk.java:775) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunkMap$CallbackExecutor.run(PlayerChunkMap.java:204) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:1080) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer$a.midTickLoadChunks(ChunkProviderServer.java:1057) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.midTickLoadChunks(MinecraftServer.java:1240) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.doTick(WorldServer.java:672) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1495) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1347) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:23:16] [Server thread/ERROR]: Could not pass event ChunkLoadEvent to Permadeath v1.3
+java.lang.ClassCastException: class net.minecraft.server.v1_16_R3.EntityArmorStand cannot be cast to class net.minecraft.server.v1_16_R3.EntityInsentient (net.minecraft.server.v1_16_R3.EntityArmorStand and net.minecraft.server.v1_16_R3.EntityInsentient are in unnamed module of loader 'app')
+	at tech.sebazcrc.permadeath.nms.v1_16_R3.NMSAccessorImpl.registerAttribute(NMSAccessorImpl.java:57) ~[?:?]
+	at tech.sebazcrc.permadeath.event.HostileEntityListener.injectHostileBehavior(HostileEntityListener.java:50) ~[?:?]
+	at tech.sebazcrc.permadeath.event.HostileEntityListener.onChunkLoad(HostileEntityListener.java:68) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor44.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.16.5.jar:git-Paper-794]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.Chunk.loadCallback(Chunk.java:875) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunk.lambda$a$15(PlayerChunk.java:775) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunkMap$CallbackExecutor.run(PlayerChunkMap.java:204) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:1080) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer$a.midTickLoadChunks(ChunkProviderServer.java:1057) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.midTickLoadChunks(MinecraftServer.java:1240) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.doTick(WorldServer.java:672) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1495) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1347) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:23:27] [User Authenticator #1/INFO]: UUID of player TTottaly_RED is d8ae0c5b-a25c-39d6-87c6-bf16b596b378
+[23:23:27] [Server thread/INFO]: TTottaly_RED se ha unido al servidor.
+[23:23:27] [Server thread/INFO]: TTottaly_RED[/127.254.8.138:34895] logged in with entity id 631 at ([world]154.22378067950265, 63.0, -572.5225416133501)
+[23:23:32] [User Authenticator #1/INFO]: UUID of player RompOrTos is c5551972-6eb1-3fa6-b9af-c905864589e9
+[23:23:32] [Server thread/INFO]: RompOrTos se ha unido al servidor.
+[23:23:32] [Server thread/INFO]: RompOrTos[/127.28.244.228:55097] logged in with entity id 1071 at ([world]152.30000001192093, 63.0, -565.1705236163983)
+[23:24:00] [Server thread/INFO]: RompOrTos issued server command: /tp Jer_efece RompOrTos
+[23:24:15] [Server thread/ERROR]: Could not pass event ChunkLoadEvent to Permadeath v1.3
+java.lang.ClassCastException: class net.minecraft.server.v1_16_R3.EntityArmorStand cannot be cast to class net.minecraft.server.v1_16_R3.EntityInsentient (net.minecraft.server.v1_16_R3.EntityArmorStand and net.minecraft.server.v1_16_R3.EntityInsentient are in unnamed module of loader 'app')
+	at tech.sebazcrc.permadeath.nms.v1_16_R3.NMSAccessorImpl.registerAttribute(NMSAccessorImpl.java:57) ~[?:?]
+	at tech.sebazcrc.permadeath.event.HostileEntityListener.injectHostileBehavior(HostileEntityListener.java:50) ~[?:?]
+	at tech.sebazcrc.permadeath.event.HostileEntityListener.onChunkLoad(HostileEntityListener.java:68) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor44.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.16.5.jar:git-Paper-794]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.Chunk.loadCallback(Chunk.java:875) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunk.lambda$a$15(PlayerChunk.java:775) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunkMap$CallbackExecutor.run(PlayerChunkMap.java:204) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:1080) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer.runTasks(ChunkProviderServer.java:660) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1280) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1264) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:1225) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1139) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:24:15] [Server thread/ERROR]: Could not pass event ChunkLoadEvent to Permadeath v1.3
+java.lang.ClassCastException: class net.minecraft.server.v1_16_R3.EntityArmorStand cannot be cast to class net.minecraft.server.v1_16_R3.EntityInsentient (net.minecraft.server.v1_16_R3.EntityArmorStand and net.minecraft.server.v1_16_R3.EntityInsentient are in unnamed module of loader 'app')
+	at tech.sebazcrc.permadeath.nms.v1_16_R3.NMSAccessorImpl.registerAttribute(NMSAccessorImpl.java:57) ~[?:?]
+	at tech.sebazcrc.permadeath.event.HostileEntityListener.injectHostileBehavior(HostileEntityListener.java:50) ~[?:?]
+	at tech.sebazcrc.permadeath.event.HostileEntityListener.onChunkLoad(HostileEntityListener.java:68) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor44.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.16.5.jar:git-Paper-794]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.Chunk.loadCallback(Chunk.java:875) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunk.lambda$a$15(PlayerChunk.java:775) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunkMap$CallbackExecutor.run(PlayerChunkMap.java:204) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:1080) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer$a.midTickLoadChunks(ChunkProviderServer.java:1057) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.midTickLoadChunks(MinecraftServer.java:1240) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.doTick(WorldServer.java:672) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1495) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1347) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:24:22] [Server thread/INFO]: Jer_efece issued server command: /tp RompOrTos
+[23:24:47] [Server thread/ERROR]: Could not pass event ChunkLoadEvent to Permadeath v1.3
+java.lang.ClassCastException: class net.minecraft.server.v1_16_R3.EntityArmorStand cannot be cast to class net.minecraft.server.v1_16_R3.EntityInsentient (net.minecraft.server.v1_16_R3.EntityArmorStand and net.minecraft.server.v1_16_R3.EntityInsentient are in unnamed module of loader 'app')
+	at tech.sebazcrc.permadeath.nms.v1_16_R3.NMSAccessorImpl.registerAttribute(NMSAccessorImpl.java:57) ~[?:?]
+	at tech.sebazcrc.permadeath.event.HostileEntityListener.injectHostileBehavior(HostileEntityListener.java:50) ~[?:?]
+	at tech.sebazcrc.permadeath.event.HostileEntityListener.onChunkLoad(HostileEntityListener.java:68) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor44.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.16.5.jar:git-Paper-794]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.Chunk.loadCallback(Chunk.java:875) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunk.lambda$a$15(PlayerChunk.java:775) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunkMap$CallbackExecutor.run(PlayerChunkMap.java:204) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:1080) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer$a.midTickLoadChunks(ChunkProviderServer.java:1057) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.midTickLoadChunks(MinecraftServer.java:1240) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer.tick(ChunkProviderServer.java:772) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.WorldServer.doTick(WorldServer.java:576) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1495) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1347) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:24:47] [Server thread/ERROR]: Could not pass event ChunkLoadEvent to Permadeath v1.3
+java.lang.ClassCastException: class net.minecraft.server.v1_16_R3.EntityArmorStand cannot be cast to class net.minecraft.server.v1_16_R3.EntityInsentient (net.minecraft.server.v1_16_R3.EntityArmorStand and net.minecraft.server.v1_16_R3.EntityInsentient are in unnamed module of loader 'app')
+	at tech.sebazcrc.permadeath.nms.v1_16_R3.NMSAccessorImpl.registerAttribute(NMSAccessorImpl.java:57) ~[?:?]
+	at tech.sebazcrc.permadeath.event.HostileEntityListener.injectHostileBehavior(HostileEntityListener.java:50) ~[?:?]
+	at tech.sebazcrc.permadeath.event.HostileEntityListener.onChunkLoad(HostileEntityListener.java:68) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor44.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor.lambda$create$1(EventExecutor.java:69) ~[patched_1.16.5.jar:git-Paper-794]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:624) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.Chunk.loadCallback(Chunk.java:875) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunk.lambda$a$15(PlayerChunk.java:775) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerChunkMap$CallbackExecutor.run(PlayerChunkMap.java:204) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer$a.executeNext(ChunkProviderServer.java:1080) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.ChunkProviderServer.runTasks(ChunkProviderServer.java:660) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1280) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1264) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:1225) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1139) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[23:25:14] [Server thread/INFO]: RompOrTos lost connection: Disconnected
+[23:25:14] [Server thread/INFO]: RompOrTos ha abandonado el servidor.
+[23:25:22] [Server thread/INFO]: Jer_efece lost connection: Disconnected
+[23:25:22] [Server thread/INFO]: Jer_efece ha abandonado el servidor.
+[23:25:28] [Server thread/INFO]: Stopping the server
+[23:25:28] [Server thread/INFO]: Stopping server
+[23:25:28] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.12.5
+[23:25:28] [Server thread/INFO]: [Permadeath] Disabling Permadeath v1.3
+[23:25:28] [Server thread/INFO]: ------------------------------------------
+[23:25:28] [Server thread/INFO]:              PERMADEATH
+[23:25:28] [Server thread/INFO]:      - Desactivando el Plugin.
+[23:25:28] [Server thread/INFO]: ------------------------------------------
+[23:25:28] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.5+57d5ac9
+[23:25:28] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[23:25:28] [Server thread/INFO]: Saving players
+[23:25:29] [Server thread/INFO]: TTottaly_RED lost connection: Server closed
+[23:25:29] [Server thread/INFO]: TTottaly_RED left the game
+[23:25:29] [Server thread/INFO]: Saving worlds
+[23:25:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:25:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:25:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:25:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:25:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:25:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:25:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[pdc_the_beginning]'/minecraft:pdc_the_beginning
+[23:25:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:25:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:25:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:25:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:25:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:25:32] [Server thread/INFO]: Flushing Chunk IO
+[23:25:32] [Server thread/INFO]: Closing Thread Pool
+[23:25:32] [Server thread/INFO]: Closing Server
